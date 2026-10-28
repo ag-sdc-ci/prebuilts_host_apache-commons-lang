@@ -8,8 +8,3 @@ java_import {
     host_supported: true,
 }
 
-java_import {
-    name: "apache-commons-lang3",
-    jars: ["lib64/apache-commons-lang3.jar"],
-    host_supported: true,
-}
